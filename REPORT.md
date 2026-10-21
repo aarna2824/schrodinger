@@ -230,5 +230,3 @@ A compact numerical toolkit was written and validated for the one-dimensional Sc
 1. D. J. Griffiths and D. F. Schroeter, *Introduction to Quantum Mechanics*, 3rd ed., Cambridge University Press (2018).
 2. M. D. Feit, J. A. Fleck Jr. and A. Steiger, "Solution of the Schrödinger equation by a spectral method," *J. Comput. Phys.* 47, 412 (1982).
 3. NumPy documentation: `numpy.linalg.eigh` and `numpy.fft`.
-
-*Cite only sources you actually consulted, and check the details above against the originals.*
